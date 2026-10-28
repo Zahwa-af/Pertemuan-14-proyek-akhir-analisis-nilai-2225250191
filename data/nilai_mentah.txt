@@ -1,0 +1,7 @@
+A001,Andi Pratama,85
+A002,Siti Aminah,78
+A003,Budi Santoso,92
+A004,Dewi Lestari,105
+A005,Rian Hidayat,abc
+A006,Joko Susilo,55
+A007,Siti Rahma,60
